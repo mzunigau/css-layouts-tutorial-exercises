@@ -1,15 +1,6 @@
 body {
 	margin: 0;
 }
-.container {
-	display: flex;
-	height: 400px;
-}
-
-.container > div {
-	width: 33%;
-}
-
 #sectionA {
 	background: blue;
 }

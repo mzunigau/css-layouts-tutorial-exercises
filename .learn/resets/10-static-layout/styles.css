@@ -1,22 +1,4 @@
 /* your code here */
-.wrapper {
-	margin: auto;
-	width: 800px;
-}
-
-header {
-	width: 100%;
-}
-
-nav {
-	width: 200px;
-	float: left;
-}
-
-section {
-	width: 590px;
-	float: right;
-}
 
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
